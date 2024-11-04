@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI models in Healthcare documents...
 - 📫 How to reach me fikaduetana2011@gmail.com/ etanaf@wollegauniversity.edu.et/ 142334001@smail.iitpkd.ac.in
 - 😄  : ...
-- ⚡  :For further information pls visit  : https://etanafi.github.io/web/
+- ⚡  :For further information pls visit  : https://website.io/web/
 
 <!---
 Etanafik/Etanafik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
