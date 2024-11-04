@@ -1,4 +1,4 @@
-<h2><center> 👋 Hi, I’m @Etana Fikadu</center></h2>
+<h2><center> 👋 Hi, I’m Etana Fikadu</center></h2>
 
 - 👀  I’m currently PhD scholar At IIT, Palakkad 
 - 🌱I’m interested in Machine Learning (ML), Deep Learning (DL), Natural Language Processing (NLP), and Text processing.
